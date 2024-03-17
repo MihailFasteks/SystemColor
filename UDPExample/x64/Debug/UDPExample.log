@@ -1,0 +1,3 @@
+﻿  UDPExample.cpp
+C:\Users\MishaPC\Desktop\Системка\UDPExample\UDPExample\UDPExample.cpp(113,107): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  UDPExample.vcxproj -> C:\Users\MishaPC\Desktop\Системка\UDPExample\x64\Debug\UDPExample.exe
